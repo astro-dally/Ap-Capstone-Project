@@ -1,0 +1,10 @@
+{
+    "builds": [
+      {
+        "src": "path/to/entry/file",
+        "use": "@vercel/node"
+      }
+    ],
+    "outputDirectory": "src" 
+  }
+  
